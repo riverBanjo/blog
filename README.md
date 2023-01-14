@@ -1,3 +1,7 @@
+# From riverBanjo
+
+This repo will have commits for every episode in the series - Laravel 8 From Scratch - where code is added in that lesson. Some of the beginning episodes will not be documented for my convenience.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
