@@ -5,7 +5,13 @@
 <body>
     <?php foreach ($posts as $post) : ?>
     <article>
-        <?= $post; ?>
+        <h1>
+            <a href="/posts/<?= $post->slug; ?>">
+                <?= $post->title; ?></h1>
+            </a>
+        <div>
+            <?= $post->excerpt; ?>
+        </div>
     </article>
     <?php endforeach; ?>
 </body>
