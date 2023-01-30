@@ -24,9 +24,7 @@ class Post
         $this->excerpt = $excerpt;
         $this->date = $date;
         $this->body = $body;
-        $this->slug
- = $slug
-;
+        $this->slug = $slug;
     }
 
     
