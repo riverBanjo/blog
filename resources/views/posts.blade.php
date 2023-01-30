@@ -4,7 +4,6 @@
 <script src="/app.js"></script>
 <body>
     @foreach ($posts as $post)
-        @dd($loop)
         <article>
             <h1>
                 <a href="/posts/{{ $post->slug }}">
